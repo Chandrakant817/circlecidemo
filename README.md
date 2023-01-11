@@ -1,3 +1,9 @@
+![image](https://user-images.githubusercontent.com/69152112/211839826-0dc3c1d2-17f9-4768-8b95-71569b0c1768.png)
+
+![image](https://user-images.githubusercontent.com/69152112/211839955-9436f632-eaa4-4088-85fb-d28bc1a992db.png)
+
+![image](https://user-images.githubusercontent.com/69152112/211840294-5f9eb6af-274f-4663-93d8-e67539c88547.png)
+
 ## Create a file "Dockerfile" with below content
 
 ```
