@@ -4,6 +4,10 @@
 
 ![image](https://user-images.githubusercontent.com/69152112/211840294-5f9eb6af-274f-4663-93d8-e67539c88547.png)
 
+## CI/CD Pipeline
+
+![image](https://github.com/Chandrakant817/circlecidemo/blob/main/WhatsApp%20Image%202023-01-12%20at%209.34.20%20PM.jpeg)
+
 ## Create a file "Dockerfile" with below content
 
 ```
